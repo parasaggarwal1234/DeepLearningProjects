@@ -1,0 +1,2 @@
+in this model we have fetch tha data file from as csv and then before applying Sequential LSTM Model , we applied preprocessing steps using text hammer
+this folder containds dataset , problemstatement, executable file
